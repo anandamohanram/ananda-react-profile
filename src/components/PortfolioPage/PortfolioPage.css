@@ -1,0 +1,7 @@
+.portfolio{
+    margin-left:auto;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #fff
+}

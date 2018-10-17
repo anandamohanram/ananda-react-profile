@@ -1,0 +1,12 @@
+.App{
+    min-height: 100vh;
+    background: url('./assets/images/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+/*     
+    background: rgb(32,76,82);
+    background: linear-gradient(0deg, rgba(32,76,82,1) 0%, rgba(18,30,77,1) 100%); */
+}

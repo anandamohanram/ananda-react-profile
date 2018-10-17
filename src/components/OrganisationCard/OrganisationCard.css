@@ -1,0 +1,14 @@
+.orgWrapper{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	box-shadow: 2px 2px 2px #00000041;
+	border: 0.5px solid #ccc;
+	margin-bottom: 30px;
+	align-items: center;
+    padding: 20px;
+    border: 1px solid #eee;
+    box-shadow:2px 2px 2px #ccc;
+    line-height: 1.2rem;
+}
+

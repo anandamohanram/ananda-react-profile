@@ -1,0 +1,11 @@
+.resumeWrapper{
+    box-sizing: border-box;
+    padding: 100px 30px;
+    text-align: justify;
+    line-height: 1.6rem;
+    background-color: #ffffff;
+}
+
+.resumeWrapper__content{
+    margin-bottom: 50px ;
+}
